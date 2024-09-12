@@ -33,3 +33,5 @@ jobs:
 
       - name: Run tests
         run: flutter test
+with:
+  flutter-version: 'stable'
